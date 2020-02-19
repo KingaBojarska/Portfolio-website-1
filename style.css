@@ -1,4 +1,6 @@
-<link href="https://fonts.google.com/specimen/Source+Sans+Pro" rel="stylesheet" type="text/css">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+</style>
 <style>
 .nav {
   width: 100%;
@@ -26,6 +28,6 @@ header {
  flex-direction: row;
  justify-content: space-evenly;
  left: 200px;
- font-family: "Source Sans Pro"
+ font-family: 'Source Sans Pro', sans-serif;
 }
 </style>
