@@ -9,6 +9,8 @@
   width: 100%;
   margin: auto;
   max-width: 1200px;
+  border-width: 100%;
+  border-max-width: 1200px;
   border-color: #E2A2FA;
   border-style: solid;
   border-radius: 10px;
