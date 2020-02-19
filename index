@@ -1,1 +1,13 @@
 <!DOCTYPE html>
+<head> 
+	<title> Welcome to my first portfolio website. </title>
+</head>
+<body>
+<nav> 
+	<ul>
+	<li> About us </li>
+	<li> Our team </li>
+	<li> Our products </li>
+	<li> Contact us </li>
+</nav>
+<div>
