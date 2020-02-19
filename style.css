@@ -6,6 +6,7 @@
   width: 100%;
   margin: auto;
   max-width: 1200px;
+  box-sizing: border-box;
 }
 header {
   background-color: #F4D8FF;
@@ -18,6 +19,7 @@ header {
   display: table;
   width: 100%;
   display: inline-flex;
+  box-sizing: border-box;
 }
 .logo {
   width: 20%;
