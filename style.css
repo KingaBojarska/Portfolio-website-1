@@ -21,6 +21,7 @@ header {
   width: 100%;
   display: inline-block;
   box-sizing: border-box;
+  content: "";
 }
 .logo {
   width: 20%;
@@ -34,7 +35,7 @@ header {
  flex-direction: row;
  justify-content: space-around;
  margin-left: 300px;
- padding-bottom: 300px;
+ bottom: 300px;
  color: #44085B;
  font-weight: 700;
  font-size: 30px;
