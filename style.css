@@ -8,7 +8,9 @@ padding: 0px;
 margin: -15px;
 }
 .logo {
-width: 100px;
+width: 150px;
 height: 100px; 
+position: relative;
+left: 50px;
 }
 </style>
