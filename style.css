@@ -7,20 +7,20 @@
   margin: auto;
   max-width: 1200px;
   display: inline-block;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 header {
   background-color: #F4D8FF;
   width: 100%;
   margin: auto;
   display: inline-block;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 .block {
   display: table;
   width: 100%;
   display: inline-block;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 .logo {
   width: 20%;
@@ -31,6 +31,7 @@ header {
 }
 .nav-link {
  display: flex;
+ align-flex: flex-start;
  flex-direction: row;
  justify-content: space-around;
  margin-left: 300px;
