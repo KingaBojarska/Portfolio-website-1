@@ -21,23 +21,23 @@ header {
   width: 160px;
   height: 110px; 
   position: relative;
-  left: 200px;
+  left: 90px;
+  top: 50px;
 }
 .nav-link {
  display: flex;
  flex-direction: row;
  justify-content: space-around;
- margin-left: 200px;
+ margin-left: 300px;
+ margin-down: 100px;
  color: #44085B;
  font-weight: bold;
  font-size: 25px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.nav-link:hover {
- color: white;
-}
 .li {
  color: #44085B;
+ text-decoration: none;
 }
 .li:hover {
 color: white;
