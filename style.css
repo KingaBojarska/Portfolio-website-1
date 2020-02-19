@@ -11,15 +11,26 @@
   max-width: 1200px;
   border-width: 100%;
   border-max-width: 1200px;
-  border-color: #E2A2FA;
+  border-color: #F4D8FF;
   border-style: solid;
   border-radius: 10px;
-  color: #E2A2FA;
+  color: #F4D8FF;
   padding: 0px;
   margin: -15px;
 }
 header {
-  background-color: #E2A2FA;
+  background-color: #F4D8FF;
+  display: table;
+  width: 100%;
+  margin: auto;
+  max-width: 1200px;
+  border-width: 100%;
+  border-max-width: 1200px;
+  border-color: #F4D8FF;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 0px;
+  margin: -15px;
 }
 .block {
   display: block;
