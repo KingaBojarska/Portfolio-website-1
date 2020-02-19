@@ -36,4 +36,10 @@ header {
 .nav-link:hover {
  color: white;
 }
+.li {
+ color: #44085B;
+}
+.li:hover {
+color: white;
+}
 </style>
