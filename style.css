@@ -10,6 +10,7 @@
 header {
   background-color: #F4D8FF;
   display: table;
+  height: 300px;
   width: 100%;
   margin: auto;
 }
@@ -18,8 +19,8 @@ header {
   width: 100%;
 }
 .logo {
-  width: 160px;
-  height: 110px; 
+  width: 50%;
+  height: 50%; 
   position: relative;
   left: 90px;
   top: 50px;
@@ -29,10 +30,10 @@ header {
  flex-direction: row;
  justify-content: space-around;
  margin-left: 300px;
- margin-down: 100px;
+ margin-bottom: 100px;
  color: #44085B;
- font-weight: bold;
- font-size: 25px;
+ font-weight: 700;
+ font-size: 30px;
  font-family: 'Source Sans Pro', sans-serif;
 }
 .li {
