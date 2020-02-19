@@ -26,11 +26,11 @@ header {
 .nav-link {
  display: flex;
  flex-direction: row;
- justify-content: space-evenly;
+ justify-content: space-around;
  margin-left: 200px;
  color: #44085B;
  font-weight: bold;
- font-size: 50px;
+ font-size: 25px;
  font-family: 'Source Sans Pro', sans-serif;
 }
 .nav-link:hover {
