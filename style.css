@@ -22,13 +22,6 @@ header {
   display: inline-block;
   box-sizing: border-box;
 }
-.block:before {
-  display: table;
-}
-.block:after {
-  display: table;
-  clear: both;
-}
 .logo {
   width: 20%;
   height: 20%; 
@@ -45,6 +38,11 @@ header {
  font-weight: 700;
  font-size: 30px;
  font-family: 'Source Sans Pro', sans-serif;
+ margin-block-start: 1em;
+ margin-block-end: 1em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ padding-inline-start: 40px;
 }
 .li {
  color: #44085B;
