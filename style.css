@@ -27,7 +27,13 @@ header {
  display: flex;
  flex-direction: row;
  justify-content: space-evenly;
- left: 200px;
+ margin-left: 200px;
+ color: #44085B;
+ font-weight: bold;
+ font-size: 50px;
  font-family: 'Source Sans Pro', sans-serif;
+}
+.nav-link:hover {
+ color: white;
 }
 </style>
