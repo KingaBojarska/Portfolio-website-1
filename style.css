@@ -38,6 +38,7 @@ header {
 .li {
  color: #44085B;
  text-decoration: none;
+ text-transform: uppercase;
 }
 .li:hover {
 color: white;
