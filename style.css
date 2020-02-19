@@ -9,15 +9,14 @@
 }
 header {
   background-color: #F4D8FF;
-  display: table;
   box-sizing: border-box;
-  height: 50%;
   width: 100%;
   margin: auto;
 }
 .block {
   display: block;
   width: 100%;
+  padding: 12px;
 }
 .logo {
   width: 20%;
@@ -31,8 +30,6 @@ header {
  flex-direction: row;
  justify-content: space-around;
  margin-left: 300px;
- margin-bottom: 100px;
-  border-bottom: 200px;
  color: #44085B;
  font-weight: 700;
  font-size: 30px;
